@@ -1,0 +1,7 @@
+{
+    "name": "SmartBrowse",
+    "version": "1.0.0",
+    "description": "Assistente inteligente para navegação",
+    "main": "main.py",
+    "author": "NaveG"
+}

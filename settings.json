@@ -1,0 +1,26 @@
+{
+    "general": {
+        "home_page": "https://www.google.com",
+        "search_engine": "https://www.google.com/search?q={}",
+        "download_path": "C:\\Users\\Administrator/Downloads",
+        "save_session": true
+    },
+    "privacy": {
+        "clear_on_exit": true,
+        "do_not_track": true,
+        "block_ads": true
+    },
+    "appearance": {
+        "theme": "dark",
+        "font_size": 14,
+        "show_bookmarks_bar": true,
+        "show_status_bar": true
+    },
+    "advanced": {
+        "hardware_acceleration": true,
+        "proxy_enabled": false,
+        "proxy_address": "",
+        "proxy_port": "",
+        "user_agent": ""
+    }
+}

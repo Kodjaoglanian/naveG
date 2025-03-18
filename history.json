@@ -1,0 +1,590 @@
+[
+  {
+    "url": "https://www.google.com/",
+    "title": "Google",
+    "timestamp": "2025-03-17T23:18:18.619864",
+    "date": "2025-03-17 23:18:18"
+  },
+  {
+    "url": "https://www.google.com/",
+    "title": "Google",
+    "timestamp": "2025-03-17T23:18:37.513618",
+    "date": "2025-03-17 23:18:37"
+  },
+  {
+    "url": "https://www.google.com/",
+    "title": "Google",
+    "timestamp": "2025-03-17T23:18:40.056444",
+    "date": "2025-03-17 23:18:40"
+  },
+  {
+    "url": "https://www.google.com/",
+    "title": "Google",
+    "timestamp": "2025-03-17T23:18:45.939510",
+    "date": "2025-03-17 23:18:45"
+  },
+  {
+    "url": "https://www.google.com/search?q=youtube&sca_esv=a9a17715c624a2d7&source=hp&ei=ivTYZ8mCG7Gl1sQP3-bKmA8&iflsig=ACkRmUkAAAAAZ9kCmsY6lr9xfGUdtxep8yh24vS0ci-h&gs_ssp=eJzj4tTP1TewzEouKzZg9GKvzC8tKU1KBQA_-AaN&oq=you&gs_lp=Egdnd3Mtd2l6IgN5b3UqAggAMgsQLhiABBixAxiDATILEAAYgAQYsQMYgwEyCxAAGIAEGLEDGIMBMggQABiABBixAzIIEAAYgAQYsQMyCBAAGIAEGLEDMgUQLhiABDIIEAAYgAQYsQMyBRAAGIAEMggQABiABBixA0jzD1CHBVjRBnABeACQAQCYAXGgAb8CqgEDMS4yuAEByAEA-AEBmAIEoALXAqgCCsICChAAGAMY6gIYjwHCAgoQLhgDGOoCGI8BwgIREC4YgAQYsQMY0QMYgwEYxwHCAg4QLhiABBixAxjRAxjHAcICCBAuGIAEGLEDmAMK8QVlN9R1WvAI_5IHAzIuMqAHwiGyBwMxLjK4B80C&sclient=gws-wiz&sei=kvTYZ_-tBL3a1sQP0JTk6AE",
+    "title": "youtube - Pesquisa Google",
+    "timestamp": "2025-03-17T23:18:53.756312",
+    "date": "2025-03-17 23:18:53"
+  },
+  {
+    "url": "https://www.youtube.com/",
+    "title": "YouTube",
+    "timestamp": "2025-03-17T23:18:56.279205",
+    "date": "2025-03-17 23:18:56"
+  },
+  {
+    "url": "https://www.google.com/",
+    "title": "Google",
+    "timestamp": "2025-03-17T23:19:28.529999",
+    "date": "2025-03-17 23:19:28"
+  },
+  {
+    "url": "https://orca-flex.vercel.app/",
+    "title": "OrçaFlex - Gerador de Orçamentos",
+    "timestamp": "2025-03-17T23:19:49.075482",
+    "date": "2025-03-17 23:19:49"
+  },
+  {
+    "url": "https://www.google.com/",
+    "title": "Google",
+    "timestamp": "2025-03-17T23:20:03.899725",
+    "date": "2025-03-17 23:20:03"
+  },
+  {
+    "url": "https://www.google.com/",
+    "title": "Google",
+    "timestamp": "2025-03-17T23:35:45.603341",
+    "date": "2025-03-17 23:35:45"
+  },
+  {
+    "url": "https://www.google.com/",
+    "title": "Google",
+    "timestamp": "2025-03-17T23:36:29.622095",
+    "date": "2025-03-17 23:36:29"
+  },
+  {
+    "url": "https://www.google.com/",
+    "title": "Google",
+    "timestamp": "2025-03-17T23:38:00.982294",
+    "date": "2025-03-17 23:38:00"
+  },
+  {
+    "url": "https://www.google.com/",
+    "title": "Google",
+    "timestamp": "2025-03-17T23:45:54.045379",
+    "date": "2025-03-17 23:45:54"
+  },
+  {
+    "url": "https://www.google.com/search?q=youtube&sca_esv=a9a17715c624a2d7&source=hp&ei=5vrYZ6adHora1sQPmPO0-Qg&iflsig=ACkRmUkAAAAAZ9kI9l0LSG3Mh3WevVtZUxLwmaVKGKqS&gs_ssp=eJzj4tTP1TewzEouKzZg9GKvzC8tKU1KBQA_-AaN&oq=you&gs_lp=Egdnd3Mtd2l6IgN5b3UqAggAMgsQLhiABBixAxiDATILEAAYgAQYsQMYgwEyCxAAGIAEGLEDGIMBMggQABiABBixAzIIEAAYgAQYsQMyCBAAGIAEGLEDMgUQLhiABDIIEAAYgAQYsQMyBRAAGIAEMggQABiABBixA0j_ElDbCFitCnABeACQAQCYAW6gAbYCqgEDMS4yuAEByAEA-AEBmAIEoALPAqgCCsICChAuGAMY6gIYjwHCAgoQABgDGOoCGI8BwgIREC4YgAQYsQMY0QMYgwEYxwHCAg4QLhiABBixAxjRAxjHAcICCBAuGIAEGLEDmAMK8QWXRVZEcnWrCpIHAzEuM6AHwiGyBwMwLjO4B8UC&sclient=gws-wiz&sei=BvvYZ7SALNze1sQPuYfGgQw",
+    "title": "youtube - Pesquisa Google",
+    "timestamp": "2025-03-17T23:46:26.398227",
+    "date": "2025-03-17 23:46:26"
+  },
+  {
+    "url": "https://www.youtube.com/",
+    "title": "YouTube",
+    "timestamp": "2025-03-17T23:46:29.095394",
+    "date": "2025-03-17 23:46:29"
+  },
+  {
+    "url": "https://www.google.com/",
+    "title": "Google",
+    "timestamp": "2025-03-17T23:47:39.318999",
+    "date": "2025-03-17 23:47:39"
+  },
+  {
+    "url": "https://www.google.com/",
+    "title": "Google",
+    "timestamp": "2025-03-17T23:48:36.244376",
+    "date": "2025-03-17 23:48:36"
+  },
+  {
+    "url": "https://www.google.com/",
+    "title": "Google",
+    "timestamp": "2025-03-17T23:48:40.164738",
+    "date": "2025-03-17 23:48:40"
+  },
+  {
+    "url": "https://www.google.com/",
+    "title": "Google",
+    "timestamp": "2025-03-17T23:48:45.541023",
+    "date": "2025-03-17 23:48:45"
+  },
+  {
+    "url": "https://www.google.com/",
+    "title": "Google",
+    "timestamp": "2025-03-17T23:52:13.945062",
+    "date": "2025-03-17 23:52:13"
+  },
+  {
+    "url": "https://www.youtube.com/",
+    "title": "YouTube",
+    "timestamp": "2025-03-18T07:31:32.423278",
+    "date": "2025-03-18 07:31:32"
+  },
+  {
+    "url": "https://www.google.com/",
+    "title": "Google",
+    "timestamp": "2025-03-18T07:31:41.354531",
+    "date": "2025-03-18 07:31:41"
+  },
+  {
+    "url": "https://www.youtube.com/",
+    "title": "YouTube",
+    "timestamp": "2025-03-18T07:31:43.469522",
+    "date": "2025-03-18 07:31:43"
+  },
+  {
+    "url": "https://www.google.com/",
+    "title": "Google",
+    "timestamp": "2025-03-18T07:31:48.858271",
+    "date": "2025-03-18 07:31:48"
+  },
+  {
+    "url": "https://www.google.com/",
+    "title": "Google",
+    "timestamp": "2025-03-18T07:45:51.003774",
+    "date": "2025-03-18 07:45:51"
+  },
+  {
+    "url": "https://ninite.com/",
+    "title": "Ninite - Install or Update Multiple Apps at Once",
+    "timestamp": "2025-03-18T07:46:27.063020",
+    "date": "2025-03-18 07:46:27"
+  },
+  {
+    "url": "https://ninite.com/discord-pythonx3-vlc/",
+    "title": "Ninite Discord Python x64 3 VLC Unattended Silent Installer and Updater",
+    "timestamp": "2025-03-18T07:46:39.242936",
+    "date": "2025-03-18 07:46:39"
+  },
+  {
+    "url": "https://www.google.com/",
+    "title": "Google",
+    "timestamp": "2025-03-18T07:49:56.243620",
+    "date": "2025-03-18 07:49:56"
+  },
+  {
+    "url": "https://ninite.com/",
+    "title": "Ninite - Install or Update Multiple Apps at Once",
+    "timestamp": "2025-03-18T07:50:02.542608",
+    "date": "2025-03-18 07:50:02"
+  },
+  {
+    "url": "https://ninite.com/discord-pythonx3-vlc/",
+    "title": "Ninite Discord Python x64 3 VLC Unattended Silent Installer and Updater",
+    "timestamp": "2025-03-18T07:50:11.822448",
+    "date": "2025-03-18 07:50:11"
+  },
+  {
+    "url": "https://www.google.com/",
+    "title": "Google",
+    "timestamp": "2025-03-18T07:56:50.886174",
+    "date": "2025-03-18 07:56:50"
+  },
+  {
+    "url": "https://www.google.com/search?q=ninite&sca_esv=3b736228b17ed96f&source=hp&ei=gl_ZZ9rTLNSu5OUP66fh-AI&iflsig=ACkRmUkAAAAAZ9ltklgbF6JLha5DCC4GSfKBc8Rz9l3x&ved=0ahUKEwjanILNyZOMAxVUF7kGHetTGC8Q4dUDCA4&uact=5&oq=ninite&gs_lp=Egdnd3Mtd2l6IgZuaW5pdGUyCBAAGIAEGLEDMgUQABiABDIFEAAYgAQyBxAAGIAEGAoyBRAAGIAEMgUQABiABDIFEAAYgAQyDRAuGIAEGNEDGMcBGAoyBRAAGIAEMgUQABiABEioDlDUA1iODXABeACQAQGYAd0BoAGCCaoBBTEuNi4xuAEDyAEA-AEBmAIIoALLB6gCCsICChAAGAMY6gIYjwHCAgoQLhgDGOoCGI8BwgIREC4YgAQYsQMY0QMYgwEYxwHCAgsQLhiABBixAxiDAcICCxAAGIAEGLEDGIMBwgIOEC4YgAQYsQMY0QMYxwHCAggQLhiABBixA8ICCxAuGIAEGMcBGK8BwgIOEAAYgAQYsQMYgwEYigXCAgUQLhiABMICDhAuGIAEGLEDGMcBGK8BwgIKEAAYgAQYsQMYCpgDCPEFVCqrOU5Mw3mSBwMxLjegB45MsgcDMC43uAfDBw&sclient=gws-wiz&sei=hl_ZZ-OBLLKU5OUPvpbRkA0",
+    "title": "ninite - Pesquisa Google",
+    "timestamp": "2025-03-18T07:56:54.706933",
+    "date": "2025-03-18 07:56:54"
+  },
+  {
+    "url": "https://ninite.com/",
+    "title": "Ninite - Install or Update Multiple Apps at Once",
+    "timestamp": "2025-03-18T07:56:56.497358",
+    "date": "2025-03-18 07:56:56"
+  },
+  {
+    "url": "https://ninite.com/discord-pythonx3-vlc/",
+    "title": "Ninite Discord Python x64 3 VLC Unattended Silent Installer and Updater",
+    "timestamp": "2025-03-18T07:57:04.689799",
+    "date": "2025-03-18 07:57:04"
+  },
+  {
+    "url": "https://www.google.com/",
+    "title": "Google",
+    "timestamp": "2025-03-18T08:00:06.764648",
+    "date": "2025-03-18 08:00:06"
+  },
+  {
+    "url": "https://ubuntu.com/download",
+    "title": "Get Ubuntu | Download | Ubuntu",
+    "timestamp": "2025-03-18T08:00:39.094019",
+    "date": "2025-03-18 08:00:39"
+  },
+  {
+    "url": "https://ubuntu.com/download/desktop/thank-you?version=24.04.2&architecture=amd64&lts=true",
+    "title": "Thank you for downloading Ubuntu Desktop | Ubuntu",
+    "timestamp": "2025-03-18T08:00:47.324536",
+    "date": "2025-03-18 08:00:47"
+  },
+  {
+    "url": "https://www.google.com/",
+    "title": "Google",
+    "timestamp": "2025-03-18T08:05:07.166841",
+    "date": "2025-03-18 08:05:07"
+  },
+  {
+    "url": "https://www.google.com/search?q=ubuntu&sca_esv=3b736228b17ed96f&source=hp&ei=c2HZZ4K_BpXM5OUPisDc6Qc&iflsig=ACkRmUkAAAAAZ9lvg7o3wFZs-CMS5GGZcRTQgLgxmpx_&ved=0ahUKEwjCxNq5y5OMAxUVJrkGHQogN30Q4dUDCA4&uact=5&oq=ubuntu&gs_lp=Egdnd3Mtd2l6IgZ1YnVudHUyCBAAGIAEGLEDMgsQABiABBixAxiDATILEAAYgAQYsQMYgwEyCBAAGIAEGLEDMgsQABiABBixAxiDATIIEAAYgAQYsQMyCxAAGIAEGLEDGIMBMggQABiABBixAzILEAAYgAQYsQMYgwEyCBAAGIAEGLEDSOcnUKQIWKgmcAR4AJABAJgB9AGgAY4KqgEFMC42LjK4AQPIAQD4AQGYAgygArwKqAIKwgIKEAAYAxjqAhiPAcICERAuGIAEGLEDGNEDGIMBGMcBwgILEC4YgAQYsQMYgwHCAg4QLhiABBixAxiDARiKBcICCBAuGIAEGNQCwgIOEC4YgAQYsQMY0QMYxwHCAgUQLhiABMICCBAuGIAEGLEDwgILEC4YgAQYxwEYrwHCAgUQABiABMICCxAAGIAEGJIDGIoFwgIIEAAYgAQYyQPCAg4QLhiABBjHARiOBRivAZgDB_EFBlYuFuC_HnSSBwU0LjYuMqAHwG2yBwUwLjYuMrgHqwo&sclient=gws-wiz&sei=fmHZZ8iJL7Ww5OUP38qi0Q4",
+    "title": "ubuntu - Pesquisa Google",
+    "timestamp": "2025-03-18T08:05:18.716630",
+    "date": "2025-03-18 08:05:18"
+  },
+  {
+    "url": "https://ubuntu.com/download/desktop",
+    "title": "Download Ubuntu Desktop | Ubuntu",
+    "timestamp": "2025-03-18T08:05:23.921013",
+    "date": "2025-03-18 08:05:23"
+  },
+  {
+    "url": "https://ubuntu.com/download/desktop/thank-you?version=24.04.2&architecture=amd64&lts=true",
+    "title": "Thank you for downloading Ubuntu Desktop | Ubuntu",
+    "timestamp": "2025-03-18T08:05:27.178249",
+    "date": "2025-03-18 08:05:27"
+  },
+  {
+    "url": "https://www.google.com/",
+    "title": "Google",
+    "timestamp": "2025-03-18T08:06:12.689069",
+    "date": "2025-03-18 08:06:12"
+  },
+  {
+    "url": "https://www.google.com/",
+    "title": "Google",
+    "timestamp": "2025-03-18T08:12:44.410352",
+    "date": "2025-03-18 08:12:44"
+  },
+  {
+    "url": "https://www.google.com/preferences?hl=pt-BR&fg=1",
+    "title": "Configurações de pesquisa",
+    "timestamp": "2025-03-18T08:13:35.883609",
+    "date": "2025-03-18 08:13:35"
+  },
+  {
+    "url": "https://www.google.com/",
+    "title": "Google",
+    "timestamp": "2025-03-18T08:13:37.329148",
+    "date": "2025-03-18 08:13:37"
+  },
+  {
+    "url": "https://www.google.com/",
+    "title": "Google",
+    "timestamp": "2025-03-18T08:19:31.691433",
+    "date": "2025-03-18 08:19:31"
+  },
+  {
+    "url": "https://www.google.com/",
+    "title": "Google",
+    "timestamp": "2025-03-18T08:33:11.180300",
+    "date": "2025-03-18 08:33:11"
+  },
+  {
+    "url": "https://www.google.com/",
+    "title": "Google",
+    "timestamp": "2025-03-18T08:35:47.103798",
+    "date": "2025-03-18 08:35:47"
+  },
+  {
+    "url": "https://www.google.com/",
+    "title": "Google",
+    "timestamp": "2025-03-18T08:38:03.039210",
+    "date": "2025-03-18 08:38:03"
+  },
+  {
+    "url": "https://www.google.com/",
+    "title": "Google",
+    "timestamp": "2025-03-18T08:42:28.769184",
+    "date": "2025-03-18 08:42:28"
+  },
+  {
+    "url": "https://www.google.com/",
+    "title": "Google",
+    "timestamp": "2025-03-18T08:44:00.877621",
+    "date": "2025-03-18 08:44:00"
+  },
+  {
+    "url": "https://www.google.com/",
+    "title": "Google",
+    "timestamp": "2025-03-18T08:47:35.901813",
+    "date": "2025-03-18 08:47:35"
+  },
+  {
+    "url": "https://www.google.com/",
+    "title": "Google",
+    "timestamp": "2025-03-18T08:55:46.434566",
+    "date": "2025-03-18 08:55:46"
+  },
+  {
+    "url": "https://www.google.com/",
+    "title": "Google",
+    "timestamp": "2025-03-18T09:01:25.749158",
+    "date": "2025-03-18 09:01:25"
+  },
+  {
+    "url": "https://www.google.com/",
+    "title": "Google",
+    "timestamp": "2025-03-18T09:30:45.215512",
+    "date": "2025-03-18 09:30:45"
+  },
+  {
+    "url": "https://www.google.com/",
+    "title": "Google",
+    "timestamp": "2025-03-18T09:31:07.108667",
+    "date": "2025-03-18 09:31:07"
+  },
+  {
+    "url": "https://www.youtube.com/",
+    "title": "YouTube",
+    "timestamp": "2025-03-18T09:31:11.756161",
+    "date": "2025-03-18 09:31:11"
+  },
+  {
+    "url": "https://www.google.com/",
+    "title": "Google",
+    "timestamp": "2025-03-18T10:00:59.744340",
+    "date": "2025-03-18 10:00:59"
+  },
+  {
+    "url": "https://www.google.com/search?q=midiamax&sca_esv=68d1291a0cea95fc&source=hp&ei=mnzZZ4D4OpfZ5OUPp-PJmAY&iflsig=ACkRmUkAAAAAZ9mKqmnNSukiccAqNuIAyc6Q8JzU6tPC&ved=0ahUKEwiArc6s5ZOMAxWXLLkGHadxEmMQ4dUDCA4&uact=5&oq=midiamax&gs_lp=Egdnd3Mtd2l6IghtaWRpYW1heDILEAAYgAQYsQMYgwEyCxAAGIAEGLEDGIMBMgsQABiABBixAxiDATIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgsQABiABBixAxiDATIFEAAYgARImBRQsARY9hJwBHgAkAEAmAHNAaABzQ2qAQYwLjEwLjG4AQPIAQD4AQGYAg-gApgOqAIKwgIKEAAYAxjqAhiPAcICChAuGAMY6gIYjwHCAgsQLhiABBixAxiDAcICERAuGIAEGLEDGNEDGIMBGMcBwgIOEC4YgAQYsQMY0QMYxwHCAggQLhiABBixA8ICBRAuGIAEwgIIEAAYgAQYsQPCAg4QLhiABBjHARiOBRivAcICDhAAGIAEGLEDGIMBGIoFwgIOEC4YgAQYsQMYgwEYigXCAgcQLhiABBgKwgILEC4YgAQYxwEYrwHCAgcQABiABBgKmAMO8QWNbM-qGD28xZIHBjQuMTAuMaAHwXiyBwYwLjEwLjG4B_8N&sclient=gws-wiz&sei=oHzZZ_OzJuuu5OUPnPS-kQs",
+    "title": "midiamax - Pesquisa Google",
+    "timestamp": "2025-03-18T10:01:06.097586",
+    "date": "2025-03-18 10:01:06"
+  },
+  {
+    "url": "https://midiamax.uol.com.br/",
+    "title": "Jornal Midiamax | Notícias de Campo Grande e Mato Grosso do Sul",
+    "timestamp": "2025-03-18T10:01:08.470146",
+    "date": "2025-03-18 10:01:08"
+  },
+  {
+    "url": "https://www.google.com/",
+    "title": "Google",
+    "timestamp": "2025-03-18T10:04:58.183194",
+    "date": "2025-03-18 10:04:58"
+  },
+  {
+    "url": "https://www.google.com/search?q=youtube&sca_esv=68d1291a0cea95fc&source=hp&ei=iH3ZZ_eXCMTW5OUPlsLeyQk&iflsig=ACkRmUkAAAAAZ9mLmOb6iuIhxdERz6a9-PzcrFqno28f&gs_ssp=eJzj4tTP1TewzEouKzZg9GKvzC8tKU1KBQA_-AaN&oq=youtube&gs_lp=Egdnd3Mtd2l6Igd5b3V0dWJlKgIIADILEC4YgAQYsQMYgwEyCxAAGIAEGLEDGIMBMggQABiABBixAzIIEAAYgAQYsQMyCBAAGIAEGLEDMggQABiABBixAzIIEAAYgAQYsQMyBRAAGIAEMggQABiABBixAzIFEAAYgARImxdQowNY4AtwAXgAkAEAmAGQAaABvgeqAQMwLje4AQHIAQD4AQGYAgigAuEHqAIKwgIKEAAYAxjqAhiPAcICChAuGAMY6gIYjwHCAhEQLhiABBixAxjRAxiDARjHAcICDhAuGIAEGLEDGNEDGMcBwgIIEC4YgAQYsQPCAgUQLhiABJgDB_EFu_xpo1r21XiSBwMxLjegB808sgcDMC43uAfaBw&sclient=gws-wiz&sei=jX3ZZ5WHGsed5OUPs6vQ4Qc",
+    "title": "youtube - Pesquisa Google",
+    "timestamp": "2025-03-18T10:05:03.047082",
+    "date": "2025-03-18 10:05:03"
+  },
+  {
+    "url": "https://www.youtube.com/",
+    "title": "YouTube",
+    "timestamp": "2025-03-18T10:05:06.116057",
+    "date": "2025-03-18 10:05:06"
+  },
+  {
+    "url": "https://www.google.com/",
+    "title": "Google",
+    "timestamp": "2025-03-18T10:05:52.913912",
+    "date": "2025-03-18 10:05:52"
+  },
+  {
+    "url": "https://www.google.com/",
+    "title": "Google",
+    "timestamp": "2025-03-18T10:06:56.356311",
+    "date": "2025-03-18 10:06:56"
+  },
+  {
+    "url": "https://midiamax.uol.com.br/",
+    "title": "Jornal Midiamax | Notícias de Campo Grande e Mato Grosso do Sul",
+    "timestamp": "2025-03-18T10:07:02.304731",
+    "date": "2025-03-18 10:07:02"
+  },
+  {
+    "url": "https://www.google.com/",
+    "title": "Google",
+    "timestamp": "2025-03-18T10:08:45.792635",
+    "date": "2025-03-18 10:08:45"
+  },
+  {
+    "url": "https://www.google.com/search?q=midia+max&sca_esv=68d1291a0cea95fc&source=hp&ei=a37ZZ6-MJ5685OUPo9jxiAs&iflsig=ACkRmUkAAAAAZ9mMexysxVZWQ1S8MS2AFUFsDa0jw4ua&ved=0ahUKEwjv7ZeK55OMAxUeHrkGHSNsHLEQ4dUDCA4&uact=5&oq=midia+max&gs_lp=Egdnd3Mtd2l6IgltaWRpYSBtYXgyBRAAGIAEMgcQABiABBgKMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBxAAGIAEGAoyBRAAGIAEMgUQABiABEj0CFDWAljpB3ABeACQAQCYAfwBoAGZC6oBBTAuNi4yuAEDyAEA-AEBmAIJoAK_C6gCCsICChAAGAMY6gIYjwHCAgoQLhgDGOoCGI8BwgIREC4YgAQYsQMY0QMYgwEYxwHCAgsQABiABBixAxiDAcICDhAuGIAEGLEDGNEDGMcBwgIIEAAYgAQYsQPCAg4QLhiABBjHARiOBRivAcICDhAAGIAEGLEDGIMBGIoFwgIIEC4YgAQYsQPCAg4QLhiABBixAxiDARiKBcICBRAuGIAEwgILEC4YgAQYsQMYgwHCAgsQLhiABBjHARivAZgDCvEFq1AxoRIIPR6SBwUxLjYuMqAH-1WyBwUwLjYuMrgHtQs&sclient=gws-wiz&sei=bn7ZZ4-zBPmB5OUPju0M",
+    "title": "midia max - Pesquisa Google",
+    "timestamp": "2025-03-18T10:08:47.431176",
+    "date": "2025-03-18 10:08:47"
+  },
+  {
+    "url": "https://midiamax.uol.com.br/",
+    "title": "Jornal Midiamax | Notícias de Campo Grande e Mato Grosso do Sul",
+    "timestamp": "2025-03-18T10:08:49.260694",
+    "date": "2025-03-18 10:08:49"
+  },
+  {
+    "url": "https://midiamax.uol.com.br/",
+    "title": "Jornal Midiamax | Notícias de Campo Grande e Mato Grosso do Sul",
+    "timestamp": "2025-03-18T10:10:20.455562",
+    "date": "2025-03-18 10:10:20"
+  },
+  {
+    "url": "https://www.google.com/",
+    "title": "Google",
+    "timestamp": "2025-03-18T10:10:29.288323",
+    "date": "2025-03-18 10:10:29"
+  },
+  {
+    "url": "https://midiamax.uol.com.br/",
+    "title": "Jornal Midiamax | Notícias de Campo Grande e Mato Grosso do Sul",
+    "timestamp": "2025-03-18T10:10:32.530731",
+    "date": "2025-03-18 10:10:32"
+  },
+  {
+    "url": "https://midiamax.uol.com.br/",
+    "title": "Jornal Midiamax | Notícias de Campo Grande e Mato Grosso do Sul",
+    "timestamp": "2025-03-18T10:10:59.070176",
+    "date": "2025-03-18 10:10:59"
+  },
+  {
+    "url": "https://www.google.com/",
+    "title": "Google",
+    "timestamp": "2025-03-18T10:13:48.123059",
+    "date": "2025-03-18 10:13:48"
+  },
+  {
+    "url": "https://www.google.com/",
+    "title": "Google",
+    "timestamp": "2025-03-18T10:14:51.751987",
+    "date": "2025-03-18 10:14:51"
+  },
+  {
+    "url": "https://midiamax.uol.com.br/",
+    "title": "Jornal Midiamax | Notícias de Campo Grande e Mato Grosso do Sul",
+    "timestamp": "2025-03-18T10:15:04.244286",
+    "date": "2025-03-18 10:15:04"
+  },
+  {
+    "url": "https://www.google.com/",
+    "title": "Google",
+    "timestamp": "2025-03-18T10:16:21.701358",
+    "date": "2025-03-18 10:16:21"
+  },
+  {
+    "url": "https://www.youtube.com/",
+    "title": "YouTube",
+    "timestamp": "2025-03-18T10:16:30.948713",
+    "date": "2025-03-18 10:16:30"
+  },
+  {
+    "url": "https://www.google.com/",
+    "title": "Google",
+    "timestamp": "2025-03-18T10:18:10.839051",
+    "date": "2025-03-18 10:18:10"
+  },
+  {
+    "url": "https://www.google.com/",
+    "title": "Google",
+    "timestamp": "2025-03-18T10:18:38.108761",
+    "date": "2025-03-18 10:18:38"
+  },
+  {
+    "url": "https://www-google-com.translate.goog/?_x_tr_sl=auto&_x_tr_tl=pt&_x_tr_hl=pt-BR&_x_tr_hist=true",
+    "title": "Google",
+    "timestamp": "2025-03-18T10:18:48.601521",
+    "date": "2025-03-18 10:18:48"
+  },
+  {
+    "url": "https://midiamax.uol.com.br/",
+    "title": "Jornal Midiamax | Notícias de Campo Grande e Mato Grosso do Sul",
+    "timestamp": "2025-03-18T10:19:02.172293",
+    "date": "2025-03-18 10:19:02"
+  },
+  {
+    "url": "https://midiamax.uol.com.br/politica/transparencia/2025/mpms-denuncia-prefeito-por-nomear-esposa-para-chefiar-setor-administrativo/",
+    "title": "MPMS denuncia prefeito por nomear esposa para chefiar setor administrativo | Jornal Midiamax",
+    "timestamp": "2025-03-18T10:19:28.109018",
+    "date": "2025-03-18 10:19:28"
+  },
+  {
+    "url": "https://www.google.com/",
+    "title": "Google",
+    "timestamp": "2025-03-18T10:20:36.663560",
+    "date": "2025-03-18 10:20:36"
+  },
+  {
+    "url": "https://midiamax.uol.com.br/",
+    "title": "Jornal Midiamax | Notícias de Campo Grande e Mato Grosso do Sul",
+    "timestamp": "2025-03-18T10:20:41.151111",
+    "date": "2025-03-18 10:20:41"
+  },
+  {
+    "url": "https://www.google.com/",
+    "title": "Google",
+    "timestamp": "2025-03-18T10:25:11.302619",
+    "date": "2025-03-18 10:25:11"
+  },
+  {
+    "url": "https://www.google.com/",
+    "title": "Google",
+    "timestamp": "2025-03-18T10:28:52.216243",
+    "date": "2025-03-18 10:28:52"
+  },
+  {
+    "url": "https://midiamax.uol.com.br/",
+    "title": "Jornal Midiamax | Notícias de Campo Grande e Mato Grosso do Sul",
+    "timestamp": "2025-03-18T10:28:58.469640",
+    "date": "2025-03-18 10:28:58"
+  },
+  {
+    "url": "https://midiamax.uol.com.br/policia/2025/uma-vida-vale-8-anos-questiona-irma-de-mayara-apos-assassino-ter-regressao-de-pena-em-campo-grande/",
+    "title": "'Uma vida vale 8 anos?', questiona irmã de Mayara após assassino ter progressão de pena em Campo Grande | Jornal Midiamax",
+    "timestamp": "2025-03-18T10:29:10.711267",
+    "date": "2025-03-18 10:29:10"
+  },
+  {
+    "url": "https://www.google.com/",
+    "title": "Google",
+    "timestamp": "2025-03-18T10:38:17.914436",
+    "date": "2025-03-18 10:38:17"
+  },
+  {
+    "url": "https://midiamax.uol.com.br/",
+    "title": "Jornal Midiamax | Notícias de Campo Grande e Mato Grosso do Sul",
+    "timestamp": "2025-03-18T10:38:35.492463",
+    "date": "2025-03-18 10:38:35"
+  },
+  {
+    "url": "https://midiamax.uol.com.br/cotidiano/2025/com-icms-reduzido-para-itens-da-cesta-basica-ms-mantem-cautela-diante-pressao-federal-por-novas-isencoes/",
+    "title": "Com ICMS reduzido para itens da cesta básica, MS mantém cautela diante da pressão federal por novas isenções | Jornal Midiamax",
+    "timestamp": "2025-03-18T10:39:46.592032",
+    "date": "2025-03-18 10:39:46"
+  },
+  {
+    "url": "https://www.google.com/",
+    "title": "Google",
+    "timestamp": "2025-03-18T10:45:29.335665",
+    "date": "2025-03-18 10:45:29"
+  },
+  {
+    "url": "https://www.google.com/",
+    "title": "Google",
+    "timestamp": "2025-03-18T10:56:13.801765",
+    "date": "2025-03-18 10:56:13"
+  },
+  {
+    "url": "https://www.google.com/",
+    "title": "Google",
+    "timestamp": "2025-03-18T11:04:56.574539",
+    "date": "2025-03-18 11:04:56"
+  },
+  {
+    "url": "https://www.google.com/",
+    "title": "Google",
+    "timestamp": "2025-03-18T11:12:16.102679",
+    "date": "2025-03-18 11:12:16"
+  },
+  {
+    "url": "https://www.google.com/search?q=midia+max&sca_esv=5f71ebaa1edf03b4&source=hp&ei=TY3ZZ4mrGqWDhuMPlaOa2Ao&iflsig=ACkRmUkAAAAAZ9mbXecNk6HvLP5GJN5TosIjZ0dLCvsy&ved=0ahUKEwjJheui9ZOMAxWlgWEGHZWRBqsQ4dUDCA4&uact=5&oq=midia+max&gs_lp=Egdnd3Mtd2l6IgltaWRpYSBtYXgyBxAAGIAEGAoyBRAAGIAEMgUQABiABDIHEAAYgAQYCjIFEAAYgAQyBxAAGIAEGAoyBRAAGIAEMgcQABiABBgKMgcQABiABBgKMggQABiiBBiJBUiaGlCYCVj0F3ADeACQAQGYAY4FoAGFHKoBCzAuMS4yLjIuMS4zuAEDyAEA-AEBmAILoAK6GqgCCsICChAuGAMY6gIYjwHCAgoQABgDGOoCGI8BwgIREC4YgAQYsQMY0QMYgwEYxwHCAgsQABiABBixAxiDAcICDhAuGIAEGLEDGNEDGMcBwgIIEAAYgAQYsQPCAg4QLhiABBjHARiOBRivAcICDhAAGIAEGLEDGIMBGIoFwgIIEC4YgAQYsQPCAg4QLhiABBixAxiDARiKBcICBRAuGIAEwgILEC4YgAQYsQMYgwHCAgsQLhiABBjHARivAZgDCfEF--_tjWHlo_SSBwszLjEuMS4yLjMuMaAH4VeyBwswLjEuMS4yLjMuMbgHqho&sclient=gws-wiz&sei=Yo3ZZ9-eG8HO5OUP5PmYiAg",
+    "title": "midia max - Pesquisa Google",
+    "timestamp": "2025-03-18T11:12:36.193282",
+    "date": "2025-03-18 11:12:36"
+  },
+  {
+    "url": "https://midiamax.uol.com.br/",
+    "title": "Jornal Midiamax | Notícias de Campo Grande e Mato Grosso do Sul",
+    "timestamp": "2025-03-18T11:12:40.590650",
+    "date": "2025-03-18 11:12:40"
+  }
+]

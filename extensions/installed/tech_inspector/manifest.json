@@ -1,0 +1,7 @@
+{
+    "name": "Tech Inspector",
+    "version": "1.0.0",
+    "description": "Analisa informações técnicas de páginas web",
+    "main": "main.py",
+    "author": "NaveG"
+}

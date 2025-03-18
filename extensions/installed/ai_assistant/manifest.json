@@ -1,0 +1,7 @@
+{
+    "name": "AI Page Assistant",
+    "version": "1.0.0",
+    "description": "Assistente de página com recursos de IA local",
+    "main": "main.py",
+    "author": "NaveG"
+}

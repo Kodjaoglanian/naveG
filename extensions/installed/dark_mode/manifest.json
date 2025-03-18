@@ -1,0 +1,7 @@
+{
+    "name": "Dark Mode",
+    "version": "1.0.0",
+    "description": "Adiciona modo escuro às páginas web",
+    "main": "main.py",
+    "author": "NaveG"
+}
